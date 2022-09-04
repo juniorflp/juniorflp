@@ -21,7 +21,10 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">        
 </div></br>
 
-🧡 Apaixonado por tecnologia e aprender coisas novas, o segredo é nunca parar de estudar!
+🧡 Apaixonado por tecnologia e aprender coisas novas, o segredo é nunca parar de estudar!</br>
+![snake gif](https://github.com/juniorflp/juniorflp/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ## Meus contatos
 
@@ -29,4 +32,4 @@
     <img align='center' alt='html5' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
 </div>e-mail => juniorcose@gmail.com
 
-![snake gif](https://github.com/juniorflp/juniorflp/blob/output/github-contribution-grid-snake.svg)
+
