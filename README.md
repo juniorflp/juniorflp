@@ -28,3 +28,5 @@
 <div style='display: inline_block'><br/>
     <img align='center' alt='html5' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
 </div>e-mail => juniorcose@gmail.com
+
+![snake gif](https://github.com/juniorflp/juniorflp/blob/output/github-contribution-grid-snake.svg)
