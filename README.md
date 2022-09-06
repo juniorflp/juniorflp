@@ -23,6 +23,7 @@
 
 🧡 Apaixonado por tecnologia e aprender coisas novas, o segredo é nunca parar de estudar!</br>
 
+![snake gif](https://github.com/juniorflp/juniorflp/blob/output/github-contribution-grid-snake.svg)
 
 
 
