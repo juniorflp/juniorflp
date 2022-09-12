@@ -4,11 +4,6 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-santos-221b43203/)
 [![behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/eduardoeduardo21)
 
-<div align="center">
-  <a href="https://github.com/juniorflp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorflp&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorflp&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
 
 ## Tecnologias que uso no meu dia
 
