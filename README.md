@@ -18,6 +18,10 @@
 
 🧡 Apaixonado por tecnologia e aprender coisas novas, o segredo é nunca parar de estudar!</br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorflp&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorflp&layout=compact)](https://github.com/juniorflp/github-readme-stats)
+
 ![snake gif](https://github.com/juniorflp/juniorflp/blob/output/github-contribution-grid-snake.svg)
 
 
