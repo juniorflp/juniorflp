@@ -20,9 +20,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorflp&layout=compact)](https://github.com/juniorflp/github-readme-stats)
-
-![snake gif](https://github.com/juniorflp/juniorflp/blob/output/github-contribution-grid-snake.svg)
 
 
 
