@@ -16,7 +16,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">        
 </div></br>
 
-🧡 Apaixonado por tecnologia e aprender coisas novas, o segredo é nunca parar de estudar!</br>
+🧡 Apaixonado por tecnologia e aprender coisas novas.</br>
 
 
 
